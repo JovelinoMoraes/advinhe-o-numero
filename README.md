@@ -1,5 +1,5 @@
 # Advinhe o Número
-Chute um número de 1 a 10 e veja de quantas tentativas você precisa para acertar o numero secréto!
+Chute um número de 1 a 100 e veja de quantas tentativas você precisa para acertar o numero secréto!
 
 Tecnologias Utilizadas:
 HTML,
