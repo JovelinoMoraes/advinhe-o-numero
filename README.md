@@ -7,3 +7,6 @@ CSS,
 Javascript,
 
 Projeto focado em aprendizagem do uso de funções , laços de repetição, estruturas condicionais e  lógica de programação.
+
+Link para visualização do Jogo:
+https://jovelinomoraes.github.io/advinhe-o-numero/
